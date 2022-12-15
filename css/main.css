@@ -325,7 +325,7 @@ header .badges .badge {
   /* background-image: url(/9_heropy-coffee/images/visual_bg.jpg);
   background-position: center;
   background-repeat: no-repeat; */
-  background: url(/9_heropy-coffee/images/visual_bg.jpg) center;
+  background: url(/images/visual_bg.jpg) center;
   /* 헤어가 fixed 되어 일반배치 흐름에서 벗어남
   (주변 요소들과 상호작용하지 않음 */
   /* 헤더의 높이만큼 외부 여백 증가 */
@@ -666,7 +666,7 @@ header .badges .badge {
   right: -50px;
 }
 .season-product {
-  background: url(/9_heropy-coffee/images/season_product_bg.jpg);
+  background: url(/images/season_product_bg.jpg);
 }
 .season-product .inner {
   height: 400px;
@@ -687,7 +687,7 @@ header .badges .badge {
 /* 리버스 커피 영역 */
 
 .reserve-coffee {
-  background: url(/9_heropy-coffee/images/reserve_bg.jpg);
+  background: url(/images/reserve_bg.jpg);
 }
 .reserve-coffee .inner {
   height: 400px;
@@ -712,7 +712,7 @@ header .badges .badge {
 /* PICK YOUR FAVORITE 영역 */
 
 .pick-your-favorite {
-  background: url(/9_heropy-coffee/images/favorite_bg.jpg) no-repeat ;
+  background: url(/images/favorite_bg.jpg) no-repeat ;
   /* 시차(Parallax) 효과 */
   background-attachment: fixed; /* 배경 이미지가 뷰포트에 고정 */
   background-position: center;
@@ -740,7 +740,7 @@ header .badges .badge {
 /* RESERVE STORE */
 
 .reserve-store {
-  background: url(/9_heropy-coffee/images/reserve_store_bg.jpg);
+  background: url(/images/reserve_store_bg.jpg);
     /* 시차(Parallax) 효과 */
     background-attachment: fixed; /* 배경 이미지가 뷰포트에 고정 */
     background-position: center;
